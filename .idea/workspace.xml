@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a535a42d-c856-45d2-9bce-f547398f3240" name="Changes" comment="criando repositorio">
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a535a42d-c856-45d2-9bce-f547398f3240" name="Changes" comment="testando métodos com o banco de dados">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jkenji"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jkenji/pandasPokedex.git",
+    "accountId": "831ec105-839c-4661-b6d2-17e47ccdc262"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -62,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724360021110</updated>
-      <workItem from="1724360026091" duration="4404000" />
+      <workItem from="1724360026091" duration="5739000" />
     </task>
     <task id="LOCAL-00001" summary="criando repositorio">
       <option name="closed" value="true" />
@@ -72,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724360387117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testando métodos com o banco de dados">
+      <option name="closed" value="true" />
+      <created>1724364542396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724364542396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criando repositorio" />
-    <option name="LAST_COMMIT_MESSAGE" value="criando repositorio" />
+    <MESSAGE value="testando métodos com o banco de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="testando métodos com o banco de dados" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pandasPokedex$Main.coverage" NAME="Main Coverage Results" MODIFIED="1724363825184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
